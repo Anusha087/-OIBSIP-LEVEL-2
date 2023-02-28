@@ -1,0 +1,72 @@
+/* Styles for the calculator box */
+.box {
+  background-color: #272822;
+  border: 2px solid #333;
+  border-radius: 5px;
+  margin: 50px auto;
+  padding: 10px;
+  text-align: center;
+  width: 250px;
+}
+
+/* Styles for the calculator buttons */
+.box th, .box td {
+  background-color: #636363;
+  border: 1px solid #333;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 20px;
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+}
+
+/* Styles for the top row of the calculator */
+.box tr:first-child th {
+  height: 60px;
+}
+
+/* Styles for the "enter" button */
+.box td[colspan="2"] {
+  background-color: #0077c2;
+  font-size: 16px;
+  height: 80px;
+  width: 80px;
+}
+
+/* Styles for the output display */
+#answer {
+  background-color: #333;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 24px;
+  height: 40px;
+  padding: 10px;
+  text-align: right;
+}
+
+/* Styles for the special buttons */
+.box td:nth-child(1), .box td:nth-child(2), .box td:nth-child(3) {
+  background-color: #ff9500;
+}
+
+.box td:nth-child(4), .box td:nth-child(5) {
+  background-color: #ff3b30;
+}
+
+.box td:nth-child(6) {
+  background-color: #4cd963;
+}
+
+.box td:nth-child(7) {
+  background-color: #a2a2a2;
+}
+
+/* Hover effects for the buttons */
+.box td:hover {
+  background-color: #777;
+}
+
+.box td:active {
+  background-color: #555;
+}

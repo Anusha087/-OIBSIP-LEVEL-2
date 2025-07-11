@@ -1,1 +1,4 @@
-"This is new File" 
+"This is new File"
+  As in my training I have worked on command prompt to check whether it is working properly not i have used this repository
+And I have using this repository after once i have some clarity i will do it by my self.
+I hope this will be helpful for every one.

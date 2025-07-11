@@ -1,5 +1,0 @@
-In training period this will be the goood opurtunity to learn
-and in training phase only i created this new file from command prompt 
-This is unnessary file.
-this is a newfile
-Wwlcome to the Git Concepts
